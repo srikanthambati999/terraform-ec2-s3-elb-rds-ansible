@@ -1,10 +1,3 @@
-variable "aws_access_key" {
-  default = "AKIAZDHBYI2Y223JXAZD"
-}
-
-variable "aws_secret_key" {
-  default = "fSfIzVkzrs2bMA31hYEJjzqGap6iRHfYOi5T2pRO"
-}
 
 
 
